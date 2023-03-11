@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TorAdin
 - 👀 I’m interested in coding.
-- 🌱 I’m currently learning Ruby\Julia.
-- 💞️ I’m looking to collaborate on :\
+- 🌱 I’m currently learning (Ruby)\Julia\Python.
+- 💞️ I’m looking to collaborate on ML projects in biomedical spehere.
 - 📫 How to reach me toradingrem2003@gmail.com
 
 <!---
