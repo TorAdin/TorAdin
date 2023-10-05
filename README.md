@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @TorAdin
-- 👀 I’m interested in coding\ML\AI.
-- 🌱 I’m currently learning (Ruby)\Julia\Python.
-- 💞️ I’m looking to collaborate on ML projects in the biomedical spehere.
-- 📫 How to reach me toradingrem2003@gmail.com
+- Sup!
+- I’m interested in coding\ML\AI.
+- Coding Ruby\Julia\Python\C++.
+- I’m looking to collaborate on ML projects in the biomedical and geology spehere.
+- If u wanna contact me, tg: ok_da_net_ok
 
 <!---
 TorAdin/TorAdin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
