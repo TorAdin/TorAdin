@@ -1,6 +1,6 @@
 - Sup!
 - I’m interested in coding\ML\AI.
-- Coding Ruby\Julia\Python\C++.
+- Coding on Ruby\Julia\Python\C++.
 - I’m looking to collaborate on ML projects in the biomedical and geology spehere.
 - If u wanna contact me, tg: ok_da_net_ok
 
