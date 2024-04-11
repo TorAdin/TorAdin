@@ -1,4 +1,4 @@
-- Sup!
+- Sup, I'm a senior pomidor ML engineer!
 - I’m interested in coding\ML\AI.
 - Coding on Ruby\Julia\Python\C++.
 - I’m looking to collaborate on ML projects in the biomedical and geology spehere.
