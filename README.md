@@ -2,7 +2,7 @@ Sup, I'm a senior pomidor ML engineer!
 
 Graduated from BMSTU and am currently studying at a central university.
 
-Working as a software engineer in the geology and biomedical fields.
+Software Engineer experienced in geology, biomedical, and banking domains.
 
 Coding in Ruby, Julia, Python, C++, and C.
 
